@@ -22,7 +22,7 @@ I explored how different factors like gender, income level, and product categori
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](add-your-screenshot-here.png)
+![Dashboard](Dashboard.png)
 
 ---
 
